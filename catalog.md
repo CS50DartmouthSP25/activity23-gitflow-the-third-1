@@ -10,6 +10,6 @@
 
 [History](history.md) - Department chair: <Alex-Cruz-Valencia>
 
-[Mathematics](math.md) - Department chair: <github username>
+[Mathematics](math.md) - Department chair: <AhmedAlSunbati712>
 
 ---
